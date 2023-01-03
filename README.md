@@ -4,6 +4,8 @@
 
 It is inspired by [k3d](https://github.com/rancher/k3d)
 
+![k3i usage](./k3i.gif)
+
 ## Prerequisites
 
 ### Install CNI plugins
