@@ -50,6 +50,7 @@ k3i delete test # delete a cluster
 - [x] implement kubeconfig
 - [x] add a command to download assets
 - [x] support air-gapped environments
+- [ ] download assets to $HOME/.k3i/assets
 
 # Alternatives
 
